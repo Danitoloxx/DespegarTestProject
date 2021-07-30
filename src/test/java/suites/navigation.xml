@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Navigation Test Page">
+
+    <test name="Navigation Test">
+        <classes>
+            <class name="navigationbar.navigationBarTest"></class>
+        </classes>
+    </test>
+
+</suite>

@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+
+    <suite-files>
+        <suite-file path="navigation.xml" />
+        <suite-file path="flights.xml" />
+    </suite-files>
+
+</suite>

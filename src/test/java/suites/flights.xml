@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="Flights Test AlMundo">
+
+    <test name="Flights Test">
+        <classes>
+            <class name="flights.flightSetTest"></class>
+        </classes>
+    </test>
+
+</suite>
